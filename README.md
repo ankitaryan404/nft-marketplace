@@ -1,6 +1,6 @@
 # NFT Marketplace (Custom)
 
-This project demonstrates 
+This project demonstrates a marketplace for a lot of nfts. This project provides a platform where any person can get their nfts listed.
 
 Try running some of the following tasks:
 
