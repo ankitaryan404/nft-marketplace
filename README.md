@@ -5,7 +5,7 @@ There is also comments written in the smart contracts to understand clearly.
 In this project, Smart Contracts are **ERC721-compliant NFT contract***, which follows all the rules of ERC721.
 **ERC721** - ***ERC721 is a standard for representing ownership of non-fungible tokens, that is, where each token is unique***.
 
-An extension of this project with complete front End is present [here](https://github.com/ankitaryan404/NFTMarketplace).
+An extension of this project with complete working front End is present [here](https://github.com/ankitaryan404/NFTMarketplace).
 
 #### Main Functionalities of this project
 > ERC721-compliant NFT contract <br>
